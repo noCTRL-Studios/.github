@@ -25,8 +25,6 @@ All packages are:
 - Open-source or source-included (as needed)
 - Designed to play nice with any pipeline
 
-## 📦 Current Tools
-
 ---
 
 ## 📝 License
