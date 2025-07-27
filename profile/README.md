@@ -37,7 +37,7 @@ You’re free to use, modify, and distribute — even in commercial projects.
 ## ✉️ Contact / Work With Us
 
 We’re available for freelance Unity tools work, custom SDK development, and game AI consulting.
-
+SilasHafeli@noctrlstudios.com
 ---
 
 Made with focus, coffee, and an eye for clean code.
