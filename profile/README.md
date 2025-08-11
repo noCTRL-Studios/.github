@@ -30,7 +30,7 @@ All packages are:
 ## 📝 License
 
 Tools are generally released under the [MIT License](./LICENSE), unless otherwise stated.\
-You’re free to use, modify, and distribute — even in commercial projects.
+You’re free to use, modify, and distribute.
 
 ---
 
